@@ -1,0 +1,6 @@
+streamlit
+ultralytics
+opencv-python
+pillow
+numpy
+# streamlit run app.py
