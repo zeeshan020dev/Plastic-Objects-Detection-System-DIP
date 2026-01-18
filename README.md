@@ -107,8 +107,6 @@ The app will open automatically in your browser.
 | --------------------------- | ------------------------------ |
 | 📷 Detect plastic in images | 🎥 Detect plastic in real-time |
 
-*(Add screenshots here)*
-
 ---
 
 ## 🌍 Use Cases
