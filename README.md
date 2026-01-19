@@ -101,14 +101,6 @@ The app will open automatically in your browser.
 
 ---
 
-## 📸 Screenshots
-
-| Image Upload                | Live Webcam                    |
-| --------------------------- | ------------------------------ |
-| 📷 Detect plastic in images | 🎥 Detect plastic in real-time |
-
----
-
 ## 🌍 Use Cases
 
 * Environmental monitoring
