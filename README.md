@@ -126,11 +126,11 @@ You are free to use, modify, and distribute this software.
 
 ---
 
-## 👨‍💻 Author
+## 👤 Author
 
-**Muhammad Zeeshan Islam**
-Computer Science Student
-Superior University, Lahore
+**[Muhammad Zeeshan Islam](https://github.com/zeeshan020dev)**
+
+[![GitHub](https://img.shields.io/badge/GitHub-zeeshan020dev-black?logo=github)](https://github.com/zeeshan020dev)
 
 ---
 
