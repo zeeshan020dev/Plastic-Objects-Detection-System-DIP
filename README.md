@@ -126,7 +126,7 @@ You are free to use, modify, and distribute this software.
 
 ---
 
-## 👤 Author
+## 👤 Authors
 
 **[Muhammad Zeeshan Islam](https://github.com/zeeshan020dev)**
 
