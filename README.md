@@ -132,6 +132,8 @@ You are free to use, modify, and distribute this software.
 
 [![GitHub](https://img.shields.io/badge/GitHub-zeeshan020dev-black?logo=github)](https://github.com/zeeshan020dev)
 
+Co-Founder – Unicodrex | Technical Lead – Skill Sprint
+
 **[Rana Ali Husnain](https://github.com/AliHusnain05)**
 
 [![GitHub](https://img.shields.io/badge/GitHub-AliHusnain05-black?logo=github)](https://github.com/AliHusnain05)
