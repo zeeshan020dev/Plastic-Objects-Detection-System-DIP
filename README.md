@@ -147,11 +147,3 @@ If you find this project useful:
 * ⭐ Star the repository
 * 🍴 Fork it
 * 🧠 Contribute improvements
-
----
-
-## 🤝 Contributions
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to open a pull request or issue.
