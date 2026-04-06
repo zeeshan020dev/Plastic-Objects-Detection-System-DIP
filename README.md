@@ -140,8 +140,6 @@ Co-Founder – [Unicodrex](https://www.linkedin.com/company/unicodrex/) | Techni
 
 ---
 
-## ⭐ Support
-
 If you find this project useful:
 
 * ⭐ Star the repository
