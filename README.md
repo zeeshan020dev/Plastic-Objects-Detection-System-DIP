@@ -137,11 +137,3 @@ Co-Founder – [Unicodrex](https://www.linkedin.com/company/unicodrex/) | Techni
 **[Rana Ali Husnain](https://github.com/AliHusnain05)**
 
 [![GitHub](https://img.shields.io/badge/GitHub-AliHusnain05-black?logo=github)](https://github.com/AliHusnain05)
-
----
-
-If you find this project useful:
-
-* ⭐ Star the repository
-* 🍴 Fork it
-* 🧠 Contribute improvements
